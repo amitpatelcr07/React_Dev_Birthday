@@ -1,0 +1,10 @@
+.cart{
+    background-color: blueviolet;
+   
+}
+.img{
+    width: 100px; /* Set the desired width */
+    height: 100px; /* Set the desired height */
+    border-radius: 50%; /* Set border-radius to 50% to create a circle */
+    object-fit: cover; /* Ensure the image covers the entire circle */
+}
